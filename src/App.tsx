@@ -108,8 +108,8 @@ export default function App() {
         {/* Hero split layout */}
         <section 
           id="hero" 
-          className="pr-6 md:pr-20 pb-16 md:pb-28 max-w-[1280px] mx-auto min-h-[85vh] flex flex-col lg:flex-row items-center justify-between gap-12"
-          style={{ paddingLeft: '81px', paddingTop: '0px' }}
+          className="px-6 md:px-20 pb-16 md:pb-28 max-w-[1280px] mx-auto min-h-[85vh] flex flex-col lg:flex-row items-center justify-between gap-12"
+          style={{ paddingTop: '0px' }}
         >
           
           {/* Text block */}

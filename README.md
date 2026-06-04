@@ -19,10 +19,3 @@ View your app in AI Studio: https://ai.studio/apps/8615c712-a2a1-44b7-9970-48865
 3. Run the app:
    `npm run dev`
 
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/rexDeus92/RexDeux-site.git
-git push -u origin main
