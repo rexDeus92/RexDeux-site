@@ -1,0 +1,128 @@
+{
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "EX-commerce Platform",
+      "description": "Полнофункциональный маркетплейс с интеграцией платежей и CRM.",
+      "tags": ["Next.js", "Tailwind", "Stripe"],
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDjmpv2J4XRgyXRskNqFbQkAkbMwSkJVHXQ4o1PW9SMZrq-3D6RSGqFaIvTgiJ_F1JKSQC2-osRtGi0bNKmnLSLn-mWxHC52idiOb49Nt6NSONlAzbX0ESUUU8HPbC8a9RnOqfUQLb3OKwQNVhoirr75VXD6cDFUN7TfW3FnzavaaWJx3Fcxh42flW2bAPwPouOA32KGn1U_GLTw80T3sDNMuiDm0ypF6dBtUxc3M8f5ENJPw_eje15j3XR24axuDkN4XWz8ABDyzI3",
+      "projectUrl": "#"
+    },
+    {
+      "id": "project-2",
+      "title": "SaaS Dashboard",
+      "description": "Аналитическая панель для управления бизнес-метриками в реальном времени.",
+      "tags": ["React", "TypeScript", "D3.js"],
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5zJOqVyPR9IUrIeIO3WY4nLdxiyeBWNtUrdejKjV25wzFbsoVjqorFA0FrMVAAYhLr9mYfZ6Ae3Op4LGezK40FW0GT4iaIxMusBc6cyUQw1o8oeXYdAYBzJEwrjfmfjwfC72RCVg9UZbFMYAfUPY2CAGoyfIjyUoMaW4vOyGaNnVgIfpD0flXBsSCJ8ZWdjE1REf1deyU12mUv7ILegrHfQjDVs0yVIlHj19rXceZtCngmOFTofC9i3ehuhZDObpxzoYPn0EAxvs3",
+      "projectUrl": "#"
+    },
+    {
+      "id": "project-3",
+      "title": "Creative Landing Page",
+      "description": "Промо-сайт с продвинутой анимацией для технологического стартапа.",
+      "tags": ["GSAP", "SCSS", "WordPress"],
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCOqkKt6PQqzTJUc5fbLHtol9JXbJFDwELe2b1uVhkzzwHJ1HaAx3RZHXE-POSYYZ64mQ7aAoegEgXIyzw1DiUS7wPMrTTtIkDBewl05d5FrfrbSkhxPqj5BabRiTdyqj0F1ySiCCKEyqAXlVauQsu9Mcarxw9X6bQ_X9KHeY4PShASFcPXJDqEgHjeAlUiTpl23KpploQcWadqXwDr8-GbEh9xeZ8baQRiLaEBVbgiH_9CZ5k0CCsxE3MgI6HBE4rCNe3-HrfmgmoB",
+      "projectUrl": "#"
+    }
+  ],
+  "techStack": [
+    {
+      "id": "tech-react",
+      "name": "React",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD6CWEIMLyX4vX0XenCp6iVljipVQzEn7rrsJtplaJMOSRQdzE3EEoKP5kgB6zB4rs0K8a6lduxpdW3sE6F8usehjjN2IU7Qc4javmih8QeAjEq2RVuki9ImCwvuY9C7SoU_90j4yJF6jwBVNhFHYSfjryOmqOidXHYhKOm65OE-XtZCL2eTFEBabN_zM4h-2CpZwxRBYqskMNv75ZPCLZHyfnXgTs5WHQD1V_2jh4f2q7ejxjD3lBV78wWb5-gYIRccxMarbqf1PHw"
+    },
+    {
+      "id": "tech-nextjs",
+      "name": "Next.js",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCfK_auZv7Sv-kxCq3KU5hnVS4GkVeAeiCtAzkgpkOlG9sOyFXLTNc-To76W8Dv36EjwcTNsszMLS9HP0O8c3-7PfgwRBoRYZH02RcXbB8gtRsTHUOKz4LhowqpMvO7_spRTxUa57-w8InzqPTWgzvmWtZahcKipgWrrWnW9Mhe2n8RIcdqhELUnFcTDLBtaLu50I1aB9jFo_YayGKtTl7LZABggAiG9ZkiHZrISzUNyoKZB6eE1QAL_TSc_asz8komKL0osv7zjnyl"
+    },
+    {
+      "id": "tech-tailwind",
+      "name": "Tailwind",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuAE0D0kNqx_4FBK6hFYTmjVJRYIOuUKS8HfsnGYWIZkpz_NcknmV3cdKIZ91aW8c-_y7YvuAEP3uNkApNRw4MJJqzJNBOdsS845MF3B-gH0Smmq6uJkSm2101qENrcSD0NAraLX3RSoR9u5lhSqCZZBTxtHn151YkcNPSxSJA_KhmySGCuqt68ZVtOL-ZVI2i6xfbxFwDAhycAuqBsQu8bfdYNJEyyEwS4C-BkRrXo65H0zatNex-XyIlz47lPm5K1oBBhLD9N2Zz4C"
+    },
+    {
+      "id": "tech-typescript",
+      "name": "TypeScript",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDLukFXbXh2FVuE6ptrN6TyEgeE8zOkXn6nQ5WhAefNizT0kiQClDJtq2KtvJmHENx8b35mV5y-NSYWP9efH37ccXkF9KO728nyvJH0Mjdgoq1z1RoPPeUOQEoAwncY50FrPpAqxYEkToXWWqG1ndfSnY8_lPeE_xlytLxayOgd878pWCao1kJHwcXvosF84mIAhV1A0mXYbTrN0psZxEqMda0iXvu7ufMzbeq-dvbLlLsj4LZWTQvfCH9W3F4zlbb_n96urcODI1lc"
+    },
+    {
+      "id": "tech-scss",
+      "name": "SCSS",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBKpTno8DIIULdj_BAMWt1Bbc-UGP8jwkT8oP_4yCV3r-0-MZZyE0UWUsfdVByMMUQKg3EeBlf1tiyY5Q84OsB9x5zi_WhIWI2S4gJt4ouuQgNUChChh8z0jYW2UvkCsazE83UQ8MOIW7yvU7sMm6Lb9SOXkmX4jUPCuytgejUlm2Wb5iaHqa44AcBHW98yynmQ-nj3IoigE1hxllSoQHGn1sloWd9ccIuxhm0Stz1DjF8TGQzRwG90lpWjAman9zrdWIrqyPnskiRU"
+    },
+    {
+      "id": "tech-js",
+      "name": "HTML/CSS/JS",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBHatyGkoH-N9m4MWbWkumpZMfM5yh8MPwrNEGN56nQo27LfDex8AwmHd8TEpSroRQZvVdWX40kNib46ImQ2Q-MgP1QvSZAPz4HZ3UMz-kTUhYTgIJcnOKLAFFm614X-FaQbfsZhpj0IgUUjZeZDwOwqiHxDbo_zGM2-_VIx8mS_F0ikG4rHq8hRYKBTwJVS6iZvgM56tyhrKgdabXzqTz57-xeQKmM79i5MLXC4ujFOrujKmoYF9l_sGHeVap5VvM7LSyOMy1nfbkZ"
+    },
+    {
+      "id": "tech-tilda",
+      "name": "Tilda",
+      "letter": "T"
+    },
+    {
+      "id": "tech-wordpress",
+      "name": "WordPress",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBqZ_OkOfii9BftDlTghn2qhe0fCHnjpeoNVIOg6yuHUbg-1rzA36gL7Z4AAYn6yji-jSmbNEhtDCq7GyyJLChrFjWpnfBnEoXZgRLnmcZqoJlM1r_0w7-VvNJfDbLwdrJYLsGIGfCyif5DF9bwosLHJtIggmUu0TsJZmJZX-8sLbreYbHGAujzQnEC_w2NbUh-MOk8ceTu9MqMm6KasS4WX2fLxEI09ZfA1k5omQVsMTg8zgKd3PV8FrmtGaw3tr-cQYbS34iiSLQ8"
+    },
+    {
+      "id": "tech-google-ai-studio",
+      "name": "Google AI Studio",
+      "letter": "G"
+    },
+    {
+      "id": "tech-stitch-ai",
+      "name": "Stitch AI",
+      "letter": "S"
+    },
+    {
+      "id": "tech-antigravity-ide",
+      "name": "Antigravity IDE",
+      "letter": "AG"
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "title": "Разработка под ключ",
+      "description": "Создаю полноценные продукты: от проектирования архитектуры и UX до развертывания на сервере. Ваш проект будет работать быстро и надежно.",
+      "tags": ["Strategy", "Back-end", "Front-end"],
+      "icon": "rocket",
+      "featured": true
+    },
+    {
+      "id": "service-2",
+      "title": "AI-Integrated Development",
+      "description": "Использование продвинутых инструментов AI для ускорения разработки, оптимизации производительности и обеспечения высочайшего качества кода.",
+      "tags": ["AI Tools", "Neuro-integration", "Prompt Engineering"],
+      "icon": "brain",
+      "featured": false,
+      "bgTheme": "dark"
+    },
+    {
+      "id": "service-3",
+      "title": "UI/UX Design",
+      "description": "Эстетика, которая продает. Современные интерфейсы с фокусом на пользовательский опыт, удобство и красоту.",
+      "tags": ["Wireframes", "Figma", "Prototypes"],
+      "icon": "palette",
+      "featured": false
+    },
+    {
+      "id": "service-4",
+      "title": "Optimization",
+      "description": "Ускорение работы сайта, SEO-оптимизация и пожизненная техническая поддержка со стабильным Core Web Vitals.",
+      "tags": ["Core Web Vitals", "SEO", "Speed"],
+      "icon": "bolt",
+      "featured": false
+    },
+    {
+      "id": "service-5",
+      "title": "Support",
+      "description": "Техническое сопровождение и масштабирование проектов любой сложности с вниманием к вашим потребностям.",
+      "tags": ["Maintenance", "Scaling", "Refactoring"],
+      "icon": "support",
+      "featured": false
+    }
+  ]
+}

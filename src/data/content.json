@@ -1,0 +1,70 @@
+{
+  "siteName": "RexDeus",
+  "navigation": [
+    { "label": "Портфолио", "href": "#projects" },
+    { "label": "Стек", "href": "#stack" },
+    { "label": "Услуги", "href": "#services" },
+    { "label": "Обо мне", "href": "#about" },
+    { "label": "Контакты", "href": "#contact" }
+  ],
+  "hero": {
+    "badgeText": "AVAILABLE FOR PROJECTS",
+    "titlePrefix": "Full-stack",
+    "titleSuffix": "Developer",
+    "accentWord": "Developer",
+    "description": "Более 3 лет опыта создания высокопроизводительных цифровых решений. Превращаю сложные идеи в масштабируемую архитектуру с безупречным интерфейсом.",
+    "viewWorkButton": "Смотреть работы",
+    "techButton": "Технологии",
+    "experienceValue": "3+",
+    "experienceSuffix": "Goda Opyta",
+    "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD3Vb3pwKs0In-reJ6tAsZr5zX6LLUB5upHT8zMO0J7NJaxijuozcU0EME1tkVmrAQOGU0toQjmrh_bpBtA-oxfemph4x6uxHINcoZKwfAW_ZyXccGCw0NICyIsHaoWKTBd3q--ZiboGsQuv7r3H2XZ9zUxklhbabnAnfuM9GMfgdBgE-4b7ZtPc91_VSXv6Nc17iehYE7EJhvJAE7Nx3acUpXs_SuA7OWGhUxJynLVmvnzYLnWC0NQljSB7n2dEHMtNr2m7Gn-6r0q",
+    "altAvatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA2PjKYf2BVH0h0vvIBs_jIyymGIWOlNvTq_salL0UkQ3nNOfgOtip7pJ8169B6ydRT7n9ls2t7Fj7CNOCH8c226gxzXyPoysMiH8_UU5NvXweL8x1aJ7OhkSTZlo4Z5v4S7EOWV5NKgVtaJjhtI1reTIRpOVgaTROsHeALzJVrM3phP2ovcar2M5UDzf5JemfL66vsiS_AFNf5WlaWk8PmAkhJmE9-Dnz1Z9q556affTQQlkhvcF5lsrgG8G76McO7enhq8w4LY7Kd",
+    "statusIndicator": "Active Developer"
+  },
+  "sections": {
+    "stack": {
+      "title": "Технологический Стек"
+    },
+    "services": {
+      "badge": "Что я делаю",
+      "title": "Услуги & Экспертиза"
+    },
+    "portfolio": {
+      "badge": "Портфолио",
+      "title": "Избранные Проекты",
+      "actionText": "Все проекты"
+    },
+    "about": {
+      "badge": "Обо мне",
+      "title": "Прецизионная Разработка & Масштабируемая Архитектура",
+      "paragraphs": [
+        "Я верю, что код — это фундамент, на котором строится пользовательский опыт. Мой подход к разработке сочетает в себе инженерную строгость и творческое видение. Каждый проект для меня — это баланс между чистотой архитектуры и скоростью работы интерфейса.",
+        "В своей работе я активно использую **AI-assisted development**, что позволяет мне решать задачи в 2-3 раза быстрее без потери качества. Специализируюсь на создании масштабируемых веб-приложений, которые выдерживают высокие нагрузки и обеспечивают отличную конверсию."
+      ],
+      "stats": [
+        { "value": "50+", "label": "Проектов" },
+        { "value": "99%", "label": "Satisfaction" },
+        { "value": "24/7", "label": "Support" },
+        { "value": "Fast", "label": "Delivery" }
+      ]
+    },
+    "contact": {
+      "title": "Обсудим ваш проект?",
+      "description": "Готов к новым вызовам и интересным задачам. Напишите мне, и мы создадим что-то крутое.",
+      "email": "hello@devcanvas.tech",
+      "telegram": "@devcanvas_pro",
+      "submitButton": "Отправить запрос",
+      "successTitle": "Запрос отправлен!",
+      "successMessage": "Спасибо! Я свяжусь с вами в ближайшее время."
+    }
+  },
+  "footer": {
+    "tagline": "Engineered with Precision.",
+    "links": [
+      { "label": "GitHub", "url": "https://github.com" },
+      { "label": "LinkedIn", "url": "https://linkedin.com" },
+      { "label": "Twitter", "url": "https://twitter.com" },
+      { "label": "Resume", "url": "#" }
+    ]
+  }
+}

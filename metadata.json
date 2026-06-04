@@ -1,0 +1,6 @@
+{
+  "name": "DevCanvas Portfolio",
+  "description": "A highly-stylized, professional Russian full-stack developer portfolio customizable via tidy JSON configurations with interactive live preview editing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
